@@ -1,6 +1,6 @@
 # Titre du jeu
 
-Projet conçu en équipe avec : [prénoms des coéquipiers]
+
 
 ## Le public cible
 
